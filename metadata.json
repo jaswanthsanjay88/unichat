@@ -1,0 +1,5 @@
+{
+  "name": "UNICHAT",
+  "description": "A sleek, monochromatic chat interface powered by Google Gemini, featuring dynamic model selection.",
+  "requestFramePermissions": []
+}
